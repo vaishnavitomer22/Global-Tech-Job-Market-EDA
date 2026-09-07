@@ -1,0 +1,6 @@
+Library	Why you used it
+pandas	Loading, cleaning, and analyzing the dataset
+numpy	Numerical operations and np.where()
+matplotlib	Creating/customizing plots
+seaborn	Statistical visualizations like boxplots, histograms, scatterplots
+jupyter	Running the .ipynb notebook
